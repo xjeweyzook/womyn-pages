@@ -2,7 +2,7 @@
 from sys import argv
 
 def main():
-    print "\x1b[2J\x1b[H" + argv[1].upper()+"(1)\t\tLinux User's Manual"
+    print "\x1b[2J\x1b[H" + argv[1].upper()+"(1)\t\tLinux User's Womynual"
     print "NAME"
     #bullshit goes here
     print "SYNOPSIS"
